@@ -1,0 +1,9 @@
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\bin\Debug\file_exp.exe.config
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\bin\Debug\file_exp.exe
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\bin\Debug\file_exp.pdb
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\obj\Debug\file_exp.csprojResolveAssemblyReference.cache
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\obj\Debug\file_exp.Form1.resources
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\obj\Debug\file_exp.Properties.Resources.resources
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\obj\Debug\file_exp.csproj.GenerateResource.Cache
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\obj\Debug\file_exp.exe
+C:\Users\ekachrz\Documents\tutki\c_sharp\file_exp\file_exp\obj\Debug\file_exp.pdb

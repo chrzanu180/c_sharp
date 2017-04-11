@@ -1,0 +1,9 @@
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\bin\Debug\hello.exe.config
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\bin\Debug\hello.exe
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\bin\Debug\hello.pdb
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\obj\Debug\hello.Properties.Resources.resources
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\obj\Debug\hello.csproj.GenerateResource.Cache
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\obj\Debug\hello.exe
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\obj\Debug\hello.pdb
+C:\Users\ekachrz\Documents\tutki\c_sharp\hello\hello\obj\Debug\hello.Hello1.resources
